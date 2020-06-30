@@ -14,16 +14,6 @@ $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: $primary-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
-/* type scale */
-$type-size-1: 1.25em !default; // ~20px
-$type-size-2: 1.125em !default; // ~18px
-$type-size-3: 1em !default; // ~16px
-$type-size-4: 0.875em !default; // ~14px
-$type-size-5: 0.8125em !default; // ~13px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$type-size-8: 0.625em !default; // ~10px
-
 .page__footer {
   color: #fff !important; // override
 }
